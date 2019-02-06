@@ -2,6 +2,8 @@
 
 Dieses Template entspricht den Formatierungsrichtlinien der Fakultät Informationsmanagement zum 06.02.2019. Bevor dieses Template verwendet wird, muss abgeklärt werden, ob es den Vorgaben des jweweiligen Betreuers entspricht. Das Output Format des Templates kann in build/main.pdf betrachtet werden.
 
+Eine Anpassung des Templates an neue Anforderungen und Guidelines ist gern gesehen.
+
 # How-To
 
 * Zur Verwendung des Templates kann dieses heruntergeladen werden und in ein Verzeichnis extrahiert werden. 
@@ -12,6 +14,4 @@ Dieses Template entspricht den Formatierungsrichtlinien der Fakultät Informatio
 
 # Lizenz
 
-Dieses Template basiert auf: https://github.com/fwalch/tum-thesis-latex/
-
-Eine Anpassung des Templates an neue Anforderungen und Guidelines ist gern gesehen.
+Dieses Template basiert auf https://github.com/fwalch/tum-thesis-latex/ und ist lizensiert nach der GNU Affero General Public License v3.0. Für weitere Details kann 'License' herangezogen werden.
